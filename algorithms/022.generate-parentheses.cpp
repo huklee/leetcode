@@ -13,13 +13,9 @@ vector<string> solve(int n, int cntOpen, int cntClose) {
 		return vector<string>();
 
 	// 03. recursive call	
-	vector<string> result, open_result, close_result;
-	for (string s : solve(n, cntOpen + 1, cntClose))
-		open_result.push_back("(" + s);
-	for (string s : solve(n, cntOpen, cntClose + 1))
-		close_result.push_back(")" + s);
-	result.insert(result.begin(), open_result.begin(), open_result.end());
-	result.insert(result.begin(), close_result.begin(), close_result.end());
+	vector<string> result;
+	for (string s : solve(n, cntOpen + 1, cntClose)) result.push_back("(" + s);
+	for (string s : solve(n, cntOpen, cntClose + 1)) result.push_back(")" + s);
 	return result;
 }
 
@@ -28,7 +24,7 @@ vector<string> generateParenthesis(int n) {
 }
    
 int main(){
-	int n = 3;
+	int n = 5;
 	for (string s : generateParenthesis(n))
 		cout << s << endl;
 	return 0;
