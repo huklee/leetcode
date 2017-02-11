@@ -5,6 +5,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Difficulty | Date
 |---| ----- | -------- | ---------- | ----
+|87|[scramble-string](https://leetcode.com/problems/scramble-string/)|[python](https://github.com/huklee/leetcode/blob/master/algorithms/087.scramble-string.py)|Hard|2017-02-11
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.py)|Medium|2017-02-05
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.py)|Easy|2017-01-14
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/013.roman-to-integer.py)|Easy|2017-01-08
