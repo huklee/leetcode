@@ -1,3 +1,4 @@
+// Expanding the center solution
 class Solution {
 public:
     string longestPalindrome(string s) {
