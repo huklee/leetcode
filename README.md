@@ -4,8 +4,8 @@ leetcode problem solving archives
 
 ## Solutions
 
-| # | Title | Solution | Date | Categories | Etc
-|---| ----- | -------- | ---- | ---------- | ---
+| # | Title | Solution | Date | Type | Etc
+|---| ----- | ---- | --------- | ---- | ---
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/007.reverse-integer.cpp)|17-02-15|Math|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/005.longest-palindromic-substring.cpp)|17-02-13|string|[Manacher's algo](http://articles.leetcode.com/longest-palindromic-substring-part-ii/)
 |87|[scramble-string](https://leetcode.com/problems/scramble-string/)|[python](https://github.com/huklee/leetcode/blob/master/algorithms/087.scramble-string.py)|17-02-11|string
