@@ -6,7 +6,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Difficulty | Date | Etc
 |---| ----- | -------- | ---------- | ---- | ---
-|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/005.longest-palindromic-substring.cpp)|Medium|2017-02-13|[Manacher's algo](http://articles.leetcode.com/longest-palindromic-substring-part-ii/)
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/007.reverse-integer.cpp)|Easy|2017-02-15|Math |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/005.longest-palindromic-substring.cpp)|Medium|2017-02-13|[Manacher's algo](http://articles.leetcode.com/longest-palindromic-substring-part-ii/)
 |87|[scramble-string](https://leetcode.com/problems/scramble-string/)|[python](https://github.com/huklee/leetcode/blob/master/algorithms/087.scramble-string.py)|Hard|2017-02-11
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.py)|Medium|2017-02-05
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.py)|Easy|2017-01-14
