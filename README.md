@@ -6,6 +6,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/054.spiral-matrix.cpp)|17-02-18|Misc|
+|136|[single-number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/136.single-number.cpp)|17-02-18|Bit ops|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/098.validate-binary-search-tree.cpp)|17-02-17|Tree|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/021.merge-two-sorted-lists.cpp)|17-02-16|List|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/007.reverse-integer.cpp)|17-02-15|Math|
