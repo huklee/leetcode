@@ -6,6 +6,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|62|[unique-paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/062.unique-paths.cpp)|17-02-23|DP|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/070.climbing-stairs.cpp)|17-02-23|DP|
 |155|[min-stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/155.min-stack.cpp)|17-02-20|Stack|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/232.implement-queue-using-stacks.cpp)|17-02-19|Misc|
 |225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/225.implement-stack-using-queues.cpp)|17-02-18|Misc|
