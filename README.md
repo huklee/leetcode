@@ -6,6 +6,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/167.two-sum-ii-input-array-is-sorted.cpp)|17-02-24|array|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/035.search-insert-position.cpp)|17-02-24|BS|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/062.unique-paths.cpp)|17-02-23|DP|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/070.climbing-stairs.cpp)|17-02-23|DP|
 |155|[min-stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/155.min-stack.cpp)|17-02-20|Stack|
