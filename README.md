@@ -6,6 +6,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/111.minimum-depth-of-binary-tree.cpp)|17-02-25|tree|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/104.maximum-depth-of-binary-tree.cpp)|17-02-25|tree|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/167.two-sum-ii-input-array-is-sorted.cpp)|17-02-24|array|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/035.search-insert-position.cpp)|17-02-24|BS|
