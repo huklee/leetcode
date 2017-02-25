@@ -9,6 +9,7 @@
  */
 class Solution {
 public:
+	// DFS approach solution
     int maxDepth(TreeNode* root) {
         if (root == nullptr)
             return 0;
