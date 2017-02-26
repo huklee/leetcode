@@ -8,6 +8,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/110.balanced-binary-tree.cpp)|17-02-26|tree|!!
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/024.swap-nodes-in-pairs.cpp)|17-02-26|linked list|!
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-26|bitwise operations|!
 |66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-26|Math|
