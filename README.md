@@ -6,8 +6,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
-|137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-06|bit ops|
-|66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-06|Math|
+|137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-26|bit ops|
+|66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-26|Math|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/063.unique-paths-ii.cpp)|17-02-25|DP|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/111.minimum-depth-of-binary-tree.cpp)|17-02-25|tree|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/104.maximum-depth-of-binary-tree.cpp)|17-02-25|tree|
