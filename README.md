@@ -6,8 +6,6 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
-
-single-number-ii
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-06|bit ops|
 |66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-06|Math|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/063.unique-paths-ii.cpp)|17-02-25|DP|
