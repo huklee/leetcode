@@ -4,9 +4,12 @@ leetcode problem solving archives
 
 ## Solutions
 
+ - \* : needed to resolve
+ - \! : see etc below
+
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
-|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/024.swap-nodes-in-pairs.cpp)|17-02-26|linked list|
+|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/024.swap-nodes-in-pairs.cpp)|17-02-26|linked list| *
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-26|bitwise operations|
 |66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-26|Math|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/063.unique-paths-ii.cpp)|17-02-25|dynamic programming|
@@ -24,7 +27,7 @@ leetcode problem solving archives
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/098.validate-binary-search-tree.cpp)|17-02-17|tree|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/021.merge-two-sorted-lists.cpp)|17-02-16|linked list|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/007.reverse-integer.cpp)|17-02-15|Math|
-|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/005.longest-palindromic-substring.cpp)[`extra`](https://github.com/huklee/leetcode/blob/master/algorithms/005.Manacher_algo.cpp)|17-02-13|string|
+|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/005.longest-palindromic-substring.cpp)[`extra`](https://github.com/huklee/leetcode/blob/master/algorithms/005.Manacher_algo.cpp)|17-02-13|string| !
 |87|[scramble-string](https://leetcode.com/problems/scramble-string/)|[python](https://github.com/huklee/leetcode/blob/master/algorithms/087.scramble-string.py)|17-02-11|string
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/022.generate-parentheses.py)|17-02-05|string
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.cpp) [python](https://github.com/huklee/leetcode/blob/master/algorithms/058.length-of-last-word.py)|17-01-14|string
