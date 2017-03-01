@@ -8,6 +8,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/53.maximum-subarray.cpp)|17-03-01|DP|!
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/153.find-minimum-in-rotated-sorted-array.cpp)|17-03-01|binary search|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/108.convert-sorted-array-to-binary-search-tree.cpp)|17-03-01|tree|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/150.evaluate-reverse-polish-notation.cpp)|17-03-01|stack|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/110.balanced-binary-tree.cpp)|17-02-26|tree|!!
