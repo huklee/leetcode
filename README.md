@@ -8,7 +8,10 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
-|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/023.merge-k-sorted-lists.cpp)|17-03-01|linked list|
+|133|[clone-graph](https://leetcode.com/problems/clone-graph/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/133.clone-graph.cpp)|17-03-03|MISC|
+|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/152.maximum-product-subarray.cpp)|17-03-03|dynamic programming|
+|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/109.convert-sorted-list-to-binary-search-tree.cpp)|17-03-03|binary tree|
+|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/023.merge-k-sorted-lists.cpp)|17-03-02|linked list|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/012.integer-to-roman.cpp)|17-03-01|Misc|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/053.maximum-subarray.cpp)|17-03-01|DP|!
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/153.find-minimum-in-rotated-sorted-array.cpp)|17-03-01|binary search|
