@@ -8,7 +8,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
-|154|[copy-list-with-random-pointer](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/154.find-minimum-in-rotated-sorted-array-ii.cpp)|17-03-05|binary search|!
+|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/154.find-minimum-in-rotated-sorted-array-ii.cpp)|17-03-05|binary search|!
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/138.copy-list-with-random-pointer.cpp)|17-03-04|linked list|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/124.binary-tree-maximum-path-sum.cpp)|17-03-04|binary tree|!!
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/009.palindrome-number.cpp)|17-03-04|Math|!
