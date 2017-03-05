@@ -8,6 +8,8 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/125.valid-palindrome.cpp)|17-03-05|Math|
+|453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/453.minimum-moves-to-equal-array-elements.cpp)|17-03-05|Math|
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/154.find-minimum-in-rotated-sorted-array-ii.cpp)|17-03-05|binary search|!
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/138.copy-list-with-random-pointer.cpp)|17-03-04|linked list|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/124.binary-tree-maximum-path-sum.cpp)|17-03-04|binary tree|!!
