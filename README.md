@@ -8,6 +8,7 @@ leetcode problem solving archives
 
 | # | Title | Solution | Date | Type | Etc
 |---| ----- | ---- | --------- | ---- | ---
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/283.move-zeroes.cpp)|17-03-12|Array|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/020.valid-parentheses.cpp)|17-03-06|stack|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/125.valid-palindrome.cpp)|17-03-05|Math|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/453.minimum-moves-to-equal-array-elements.cpp)|17-03-05|Math|
