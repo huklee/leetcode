@@ -30,7 +30,7 @@ leetcode problem solving archives
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/137.single-number-ii.cpp)|17-02-26|bitwise operations|!
 |66|[plus-one](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/066.plus-one.cpp)|17-02-26|Math|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/063.unique-paths-ii.cpp)|17-02-25|dynamic programming|
-|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/111.minimum-depth-of-binary-tree.cpp)|17-02-25|tree|
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[DFS_C++](https://github.com/huklee/leetcode/blob/master/algorithms/111.minimum-depth-of-binary-tree_DFS.cpp) [BFS_C++](https://github.com/huklee/leetcode/blob/master/algorithms/111.minimum-depth-of-binary-tree.cpp)|17-02-25|tree|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/104.maximum-depth-of-binary-tree.cpp)|17-02-25|tree|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/167.two-sum-ii-input-array-is-sorted.cpp)|17-02-24|array|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/035.search-insert-position.cpp)|17-02-24|binary search|!
