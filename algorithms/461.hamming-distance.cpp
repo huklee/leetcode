@@ -1,8 +1,7 @@
 class Solution {
 public:
     int hammingDistance(int x, int y) {
-        int z = x^y;
-        return sparse_bit(z);
+        return sparse_bit(x^y);
     }
     
     int sparse_bit(int x){

@@ -8,6 +8,7 @@ leetcode problem solving archives
 
 | # | Title | Solution |  Type | Etc
 |---| ----- | ---- | ---- | ---
+|271|[contains-duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/271.contains-duplicate.cpp)|Array|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/461.hamming-distance.cpp)|Bit manipulation|
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/283.move-zeroes.cpp)|Array|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/huklee/leetcode/blob/master/algorithms/020.valid-parentheses.cpp)|stack|
