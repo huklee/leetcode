@@ -1,6 +1,6 @@
 class Solution {
 	// 3D memoization of traversal paths
-	boolean[][][] memoization;
+	Boolean[][][] memoization;
 	char[] str1, str2;
 	int length;
 
@@ -8,7 +8,7 @@ class Solution {
 		this.str1 = s1.toCharArray();
 		this.str2 = s2.toCharArray();
 		this.length = s1.length();
-		this.memoization = new boolean[length][length][length + 1];
+		this.memoization = new Boolean[length][length][length + 1];
 		return canScramble(0, 0, length);
 	}
 
