@@ -27,7 +27,8 @@ public class LFUCache {
 
 		// Update frequency map
 		freqToKeys.get(oldFreq).remove(key);
-		freqToKeys.computeIfAbsent(newFreq, k -> new LinkedHashSet<>()).add(key);
+		freqToKeys.computeIfAbsent(newFreq, k -> new LinkedHashSet<>())
+			  .add(key);
 
 		// If the previous minFreq bucket is empty, update minFreq
 		if (freqToKeys.get(oldFreq).isEmpty()) {
@@ -67,7 +68,8 @@ public class LFUCache {
 		// Insert new key with initial frequency
 		keyToVal.put(key, value);
 		keyToFreq.put(key, 1);
-		freqToKeys.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
+		freqToKeys.computeIfAbsent(1, k -> new LinkedHashSet<>())
+			  .add(key);
 		minFreq = 1;
 	}
 
