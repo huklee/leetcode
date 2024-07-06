@@ -14,7 +14,7 @@ var isValid = function(s) {
 		if (char === '(' || char === '{' || char === '[') {
 			stack.push(char);
 		} else {
-			if (stack.length === 0 || open != mapping[close])
+			if (stack.length === 0 || stack[stack.length - 1] != mapping[char])
 				return false;
 			stack.pop();
 		}
