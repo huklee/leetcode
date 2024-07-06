@@ -5,11 +5,12 @@
 let memo = [];
 
 function generateParenthesis(n) {
-	memo = [...Array(n + 1)].map(() => Array(n + 1).fill([]));
+	memo = [...Array(n + 1)]
+			.map(() => Array.from({ length: n + 1 }, () => []));
+
 	return subMemo(n, n, n);
 }
 
-// All possibilities of parenthesis using cntOpen * opening and cntOpen * closing
 function subMemo(n, cntOpen, cntClose) {
 	// 00. base case
 	if (cntOpen === 0 && cntClose === 0) {
