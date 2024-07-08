@@ -1,0 +1,11 @@
+test/
+.idea/
+a.out
+main.out
+test.cpp
+*.swp
+CMakeLists.txt
+algorithms/test.cpp
+main.cpp
+table.md
+test_noc++11.cpp
