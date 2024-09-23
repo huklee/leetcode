@@ -4,8 +4,8 @@ func twoSum(nums []int, target int) []int {
         hashMap[num] = i
     }
 
-    for i := 0; i < len(nums); i++{
-        complement := target - nums[i]
+    for i, num := range nums {
+        complement := target - num
         if j, ok := hashMap[complement]; ok && i != j {
             return []int{i, j}
         }
