@@ -1,8 +1,8 @@
-// singleNumber 함수는 slice에서 단 하나만 존재하는 숫자를 찾습니다.
+// singleNumber function finds the single number in the slice.
 func singleNumber(nums []int) int {
     res := 0
     for _, num := range nums {
-        res ^= num // XOR 연산으로 같은 숫자를 제거
+        res ^= num // Use XOR operation to eliminate the numbers that appear twice
     }
     return res
 }
